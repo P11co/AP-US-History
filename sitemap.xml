@@ -18,4 +18,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://github.com/sternin/AP-US-History/chapter-3.html</loc>
+    <lastmod>2018-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://github.com/sternin/AP-US-History/assets/loading.gif</loc>
+    <lastmod>2018-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
