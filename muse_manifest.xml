@@ -1,40 +1,44 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github.com/sternin/AP-US-History" resolutions="1x" timestamp="1527694184352">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github.com/sternin/AP-US-History" resolutions="1x" timestamp="1528035563359">
   <folder name="assets">
     <file name="loading.gif" crc="4270251559" seo="true" mt="1527694085000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="28725188" ref="index:chapter1:chapter2:chapter-3"/>
-    <file name="index.css" crc="3974218066" ref="index"/>
-    <file name="chapter1.css" crc="326708362" ref="chapter1"/>
-    <file name="chapter2.css" crc="326708362" ref="chapter2"/>
-    <file name="chapter-3.css" crc="326708362" ref="chapter-3"/>
+    <file name="master_a-master.css" crc="291807488" ref="index:chapter1:chapter2:chapter-3:dashboard:table-of-contents:contributions"/>
+    <file name="index.css" crc="3914039151" ref="index"/>
+    <file name="chapter1.css" crc="75269978" ref="chapter1"/>
+    <file name="chapter2.css" crc="75269978" ref="chapter2"/>
+    <file name="chapter-3.css" crc="75269978" ref="chapter-3"/>
+    <file name="dashboard.css" crc="3935477828" ref="dashboard"/>
+    <file name="table-of-contents.css" crc="75269978" ref="table-of-contents"/>
+    <file name="contributions.css" crc="516643319" ref="contributions"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:chapter1:chapter2:chapter-3"/>
-    <file name="museutils.js" crc="4232573551" ref="index:chapter1:chapter2:chapter-3"/>
-    <file name="whatinput.js" crc="86476730" ref="index:chapter1:chapter2:chapter-3"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:chapter1:chapter2:chapter-3"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:chapter1:chapter2:chapter-3"/>
-    <file name="require.js" crc="4234670167" ref="index:chapter1:chapter2:chapter-3"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
+    <file name="museutils.js" crc="4232573551" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
+    <file name="whatinput.js" crc="86476730" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
+    <file name="require.js" crc="4234670167" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="dashboard"/>
   </folder>
   <folder name="images">
-    <file name="u420-5.png" crc="143008694" ref="index:chapter1:chapter2:chapter-3"/>
-    <file name="house-1444716_960_720.png" crc="4223117086" ref="index">
+    <file name="house-1444716_960_720.png" crc="348753913" ref="dashboard">
       <caption webpage="index" alt=""/>
+      <caption webpage="dashboard" alt=""/>
     </file>
-    <file name="u372-4.png" crc="328743363" ref="index:chapter1:chapter2:chapter-3"/>
-    <file name="th.jpg" crc="4243265503" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u396-4.png" crc="3821627532" ref="index:chapter1:chapter2:chapter-3"/>
-    <file name="u402-4.png" crc="238496892" ref="index:chapter1:chapter2:chapter-3"/>
+    <file name="u502-4.png" crc="291969291" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
+    <file name="u517-4.png" crc="4274374731" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
+    <file name="u546-4.png" crc="376188662" ref="dashboard"/>
+    <file name="u559-4.png" crc="3868474583" ref="dashboard"/>
+    <file name="u558-10.png" crc="4047574043" ref="dashboard"/>
+    <file name="u563-4.png" crc="4279058851" ref="dashboard"/>
   </folder>
-  <file name="index.html" crc="136849675" seo="true" mt="1527694183866" redirect="true"/>
-  <file name="chapter1.html" crc="197058161" seo="true" mt="1527693986956" redirect="true"/>
-  <file name="chapter2.html" crc="4269945170" seo="true" mt="1527693986956" redirect="true"/>
-  <file name="chapter-3.html" crc="4100225933" seo="true" mt="1527693986956" redirect="true"/>
+  <file name="index.html" crc="397687410" seo="true" mt="1528035548185" redirect="true"/>
+  <file name="chapter1.html" crc="220228616" seo="true" mt="1528035544641" redirect="true"/>
+  <file name="chapter2.html" crc="311216561" seo="true" mt="1528035544641" redirect="true"/>
+  <file name="chapter-3.html" crc="411625361" seo="true" mt="1528035544641" redirect="true"/>
+  <file name="contributions.html" crc="4189333969" seo="true" mt="1528035544641" redirect="true"/>
+  <file name="dashboard.html" crc="3780297260" seo="true" mt="1528035561831" redirect="true"/>
+  <file name="table-of-contents.html" crc="4118466940" seo="true" mt="1528035544641" redirect="true"/>
 </manifest>
