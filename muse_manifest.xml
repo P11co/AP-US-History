@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github.com/sternin/AP-US-History" resolutions="1x" timestamp="1529508119256">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github.com/sternin/AP-US-History" resolutions="1x" timestamp="1529508791475">
   <folder name="assets">
     <file name="load.gif" crc="4270251559" seo="true" mt="1529305378000"/>
   </folder>
@@ -8,11 +8,11 @@
     <file name="chapter-3.css" crc="3817678209" ref="chapter-3"/>
     <file name="contributions.css" crc="232146205" ref="contributions"/>
     <file name="index.css" crc="4191369140" ref="index"/>
-    <file name="table-of-contents.css" crc="463666181" ref="table-of-contents"/>
-    <file name="nomq_table-of-contents.css" crc="3871511957" ref="table-of-contents"/>
+    <file name="table-of-contents.css" crc="3956167407" ref="table-of-contents"/>
+    <file name="nomq_table-of-contents.css" crc="3769855509" ref="table-of-contents"/>
     <file name="master_chapters.css" crc="110006689" ref="chapter1:chapter-3:contributions:chapter-2"/>
     <file name="nomq_preview_master_chapters.css" crc="3824530138" ref="chapter1:contributions:chapter-2:chapter-3"/>
-    <file name="master_menus.css" crc="4172065519" ref="table-of-contents:index"/>
+    <file name="master_menus.css" crc="232430123" ref="table-of-contents:index"/>
     <file name="nomq_preview_master_menus.css" crc="152249081" ref="table-of-contents:index"/>
     <file name="nomq_contributions.css" crc="3824530138" ref="contributions"/>
     <file name="chapter-2.css" crc="462598620" ref="chapter-2"/>
@@ -37,9 +37,9 @@
     <file name="flag.jpg" crc="148085666" ref="chapter1:index:table-of-contents">
       <caption webpage="index" alt=""/>
       <caption webpage="chapter1" alt=""/>
+      <caption webpage="table-of-contents" alt=""/>
+      <caption webpage="table-of-contents" alt=""/>
       <caption webpage="chapter-3" alt=""/>
-      <caption webpage="table-of-contents" alt=""/>
-      <caption webpage="table-of-contents" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="chapter1:chapter-3:index:table-of-contents:contributions:chapter-2"/>
     <file name="u1902.png" crc="220100798" ref="index:table-of-contents"/>
@@ -53,14 +53,12 @@
     <file name="u1712-4.png" crc="353771510" ref="index"/>
     <file name="u1589-4-a.png" crc="4248489958" ref="table-of-contents"/>
     <file name="u1588-10-a.png" crc="4106536087" ref="table-of-contents"/>
-    <file name="u1652-6.png" crc="4205261690" ref="table-of-contents"/>
-    <file name="u1661-6.png" crc="395629795" ref="table-of-contents"/>
-    <file name="u1658-6.png" crc="28658014" ref="table-of-contents"/>
+    <file name="u1652-6.png" crc="480479450" ref="table-of-contents"/>
+    <file name="u1658-6.png" crc="269930998" ref="table-of-contents"/>
     <file name="u1589-4-a2.png" crc="429147491" ref="table-of-contents"/>
     <file name="u1588-10-a2.png" crc="3975369808" ref="table-of-contents"/>
-    <file name="u1652-62.png" crc="4221742314" ref="table-of-contents"/>
-    <file name="u1661-62.png" crc="442134765" ref="table-of-contents"/>
-    <file name="u1658-62.png" crc="409277599" ref="table-of-contents"/>
+    <file name="u1652-62.png" crc="3966360831" ref="table-of-contents"/>
+    <file name="u1658-62.png" crc="3986125832" ref="table-of-contents"/>
     <file name="u3773.png" crc="220100798" ref="chapter1:chapter-3:contributions:chapter-2"/>
     <file name="u3773-a.png" crc="220100798" ref="chapter1:chapter-3:contributions:chapter-2"/>
     <file name="u3766.png" crc="281902106" ref="chapter1:chapter-3:contributions:chapter-2"/>
@@ -152,11 +150,13 @@
     <file name="u7056_states.png" crc="328002857" ref="chapter-3"/>
     <file name="u7056_states-r.png" crc="328002857" ref="chapter-3"/>
     <file name="u7599-7.png" crc="4088056854" ref="index"/>
+    <file name="u1661-7.png" crc="399792967" ref="table-of-contents"/>
+    <file name="u1661-72.png" crc="467398691" ref="table-of-contents"/>
   </folder>
   <file name="chapter1.html" crc="4162791092" seo="true" mt="1529508091406" redirect="true"/>
   <file name="chapter-3.html" crc="4017342214" seo="true" mt="1529508091406" redirect="true"/>
   <file name="contributions.html" crc="3963748176" seo="true" mt="1529508091406" redirect="true"/>
   <file name="index.html" crc="61074148" seo="true" mt="1529508099676" redirect="true"/>
-  <file name="table-of-contents.html" crc="4201779012" seo="true" mt="1529508099676" redirect="true"/>
+  <file name="table-of-contents.html" crc="376396783" seo="true" mt="1529508790682" redirect="true"/>
   <file name="chapter-2.html" crc="214807967" seo="true" mt="1529508091406" redirect="true"/>
 </manifest>
