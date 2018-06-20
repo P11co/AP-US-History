@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github.com/sternin/AP-US-History" resolutions="1x" timestamp="1529490233451">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github.com/sternin/AP-US-History" resolutions="1x" timestamp="1529508007032">
   <folder name="assets">
     <file name="load.gif" crc="4270251559" seo="true" mt="1529305378000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="chapter1.css" crc="4276887728" ref="chapter1"/>
-    <file name="chapter-3.css" crc="128399589" ref="chapter-3"/>
-    <file name="contributions.css" crc="243649552" ref="contributions"/>
-    <file name="index.css" crc="3953132045" ref="index"/>
-    <file name="table-of-contents.css" crc="4206920504" ref="table-of-contents"/>
-    <file name="nomq_table-of-contents.css" crc="422488419" ref="table-of-contents"/>
-    <file name="master_chapters.css" crc="4254392292" ref="chapter1:chapter-3:contributions:chapter-2"/>
-    <file name="nomq_preview_master_chapters.css" crc="3824530138" ref="chapter1:chapter-3:contributions:chapter-2"/>
-    <file name="master_menus.css" crc="3945293540" ref="table-of-contents:index"/>
-    <file name="nomq_preview_master_menus.css" crc="152249081" ref="table-of-contents:index"/>
+    <file name="chapter-3.css" crc="519974277" ref="chapter-3"/>
+    <file name="contributions.css" crc="232146205" ref="contributions"/>
+    <file name="index.css" crc="475550916" ref="index"/>
+    <file name="table-of-contents.css" crc="463666181" ref="table-of-contents"/>
+    <file name="nomq_table-of-contents.css" crc="3871511957" ref="table-of-contents"/>
+    <file name="master_chapters.css" crc="22385679" ref="chapter1:chapter-3:contributions:chapter-2"/>
+    <file name="nomq_preview_master_chapters.css" crc="3824530138" ref="chapter1:contributions:chapter-2"/>
+    <file name="master_menus.css" crc="4131713077" ref="table-of-contents:index"/>
+    <file name="nomq_preview_master_menus.css" crc="152249081" ref="table-of-contents"/>
     <file name="nomq_contributions.css" crc="3824530138" ref="contributions"/>
     <file name="chapter-2.css" crc="462598620" ref="chapter-2"/>
   </folder>
@@ -24,7 +24,7 @@
     <file name="museconfig.js" crc="310584261" ref="chapter1:chapter-3:contributions:index:table-of-contents:chapter-2"/>
     <file name="jquery.watch.js" crc="51536988" ref="chapter1:chapter-3:contributions:index:table-of-contents:chapter-2"/>
     <file name="require.js" crc="7928878" ref="chapter1:chapter-3:contributions:index:table-of-contents:chapter-2"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:chapter1:table-of-contents"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:chapter1:table-of-contents:chapter-3"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="chapter1:chapter-3:index:table-of-contents:contributions:chapter-2"/>
     <file name="html5shiv.js" crc="4241844378" ref="chapter1:chapter-3:contributions:index:table-of-contents:chapter-2"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="table-of-contents"/>
@@ -34,9 +34,10 @@
     <file name="house-1444716_960_720.png" crc="348753913" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="flag.jpg" crc="4170662485" ref="chapter1:index:table-of-contents">
+    <file name="flag.jpg" crc="148085666" ref="chapter1:index:table-of-contents:chapter-3">
       <caption webpage="index" alt=""/>
       <caption webpage="chapter1" alt=""/>
+      <caption webpage="chapter-3" alt=""/>
       <caption webpage="table-of-contents" alt=""/>
       <caption webpage="table-of-contents" alt=""/>
     </file>
@@ -81,7 +82,7 @@
     <file name="u3753-4.png" crc="434217938" ref="chapter1:chapter-3:contributions:chapter-2"/>
     <file name="u5195.png" crc="4238195717" ref="chapter1"/>
     <file name="u5195-r.png" crc="4238195717" ref="chapter1"/>
-    <file name="u5575-30.png" crc="4203245257" ref="chapter-2"/>
+    <file name="u5575-30.png" crc="3791939005" ref="chapter-2"/>
     <file name="perfectimagetoseekwaconstruction.jpg" crc="145911187" seo="true" ref="chapter-2">
       <caption webpage="chapter-2" alt=""/>
     </file>
@@ -129,11 +130,33 @@
     <file name="u6262-4-a.png" crc="4238195717" ref="chapter-2"/>
     <file name="u6271_states.png" crc="328002857" ref="chapter-2"/>
     <file name="u6271_states-r.png" crc="328002857" ref="chapter-2"/>
+    <file name="u458-60.png" crc="363946217" ref="contributions"/>
+    <file name="u7095-6.png" crc="450718077" ref="chapter-3"/>
+    <file name="u7273-84.png" crc="511736528" ref="chapter-3"/>
+    <file name="th.jpg" crc="4200718098" seo="true" ref="chapter-3">
+      <caption webpage="chapter-3" alt=""/>
+    </file>
+    <file name="71235-004-b5910572.jpg" crc="4174151999" seo="true" ref="chapter-3">
+      <caption webpage="chapter-3" alt=""/>
+    </file>
+    <file name="u7296-4.png" crc="3852312284" ref="chapter-3"/>
+    <file name="6ca17dea4a41b79560538e0adae6730d.jpg" crc="326322389" seo="true" ref="chapter-3">
+      <caption webpage="chapter-3" alt=""/>
+    </file>
+    <file name="u7312-4.png" crc="352143464" ref="chapter-3"/>
+    <file name="u7319_states.png" crc="4035306897" ref="chapter-3"/>
+    <file name="u7319_states-r.png" crc="4035306897" ref="chapter-3"/>
+    <file name="微信截图_20180620231429.jpg" crc="80801276" seo="true" ref="chapter-3">
+      <caption webpage="chapter-3" alt=""/>
+    </file>
+    <file name="u7056_states.png" crc="328002857" ref="chapter-3"/>
+    <file name="u7056_states-r.png" crc="328002857" ref="chapter-3"/>
+    <file name="u7599-7.png" crc="4088056854" ref="index"/>
   </folder>
-  <file name="chapter1.html" crc="263062420" seo="true" mt="1529490227500" redirect="true"/>
-  <file name="chapter-3.html" crc="4195365690" seo="true" mt="1529490227500" redirect="true"/>
-  <file name="contributions.html" crc="3873515915" seo="true" mt="1529490227500" redirect="true"/>
-  <file name="index.html" crc="3805006986" seo="true" mt="1529490227498" redirect="true"/>
-  <file name="table-of-contents.html" crc="35271525" seo="true" mt="1529490227498" redirect="true"/>
-  <file name="chapter-2.html" crc="155811742" seo="true" mt="1529490227500" redirect="true"/>
+  <file name="chapter1.html" crc="4198843478" seo="true" mt="1529490433007" redirect="true"/>
+  <file name="chapter-3.html" crc="4070726623" seo="true" mt="1529507993825" redirect="true"/>
+  <file name="contributions.html" crc="456606842" seo="true" mt="1529502973166" redirect="true"/>
+  <file name="index.html" crc="4089855604" seo="true" mt="1529507931198" redirect="true"/>
+  <file name="table-of-contents.html" crc="1438084" seo="true" mt="1529501209496" redirect="true"/>
+  <file name="chapter-2.html" crc="3898245330" seo="true" mt="1529501713115" redirect="true"/>
 </manifest>

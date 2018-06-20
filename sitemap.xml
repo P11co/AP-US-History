@@ -23,6 +23,18 @@
     <lastmod>2018-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://github.com/sternin/AP-US-History/images/th.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://github.com/sternin/AP-US-History/images/71235-004-b5910572.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://github.com/sternin/AP-US-History/images/6ca17dea4a41b79560538e0adae6730d.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://github.com/sternin/AP-US-History/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20180620231429.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://github.com/sternin/AP-US-History/contributions.html</loc>
