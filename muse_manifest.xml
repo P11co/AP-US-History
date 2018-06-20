@@ -1,44 +1,139 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github.com/sternin/AP-US-History" resolutions="1x" timestamp="1528035563359">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github.com/sternin/AP-US-History" resolutions="1x" timestamp="1529490233451">
   <folder name="assets">
-    <file name="loading.gif" crc="4270251559" seo="true" mt="1527694085000"/>
+    <file name="load.gif" crc="4270251559" seo="true" mt="1529305378000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="291807488" ref="index:chapter1:chapter2:chapter-3:dashboard:table-of-contents:contributions"/>
-    <file name="index.css" crc="3914039151" ref="index"/>
-    <file name="chapter1.css" crc="75269978" ref="chapter1"/>
-    <file name="chapter2.css" crc="75269978" ref="chapter2"/>
-    <file name="chapter-3.css" crc="75269978" ref="chapter-3"/>
-    <file name="dashboard.css" crc="3935477828" ref="dashboard"/>
-    <file name="table-of-contents.css" crc="75269978" ref="table-of-contents"/>
-    <file name="contributions.css" crc="516643319" ref="contributions"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="chapter1.css" crc="4276887728" ref="chapter1"/>
+    <file name="chapter-3.css" crc="128399589" ref="chapter-3"/>
+    <file name="contributions.css" crc="243649552" ref="contributions"/>
+    <file name="index.css" crc="3953132045" ref="index"/>
+    <file name="table-of-contents.css" crc="4206920504" ref="table-of-contents"/>
+    <file name="nomq_table-of-contents.css" crc="422488419" ref="table-of-contents"/>
+    <file name="master_chapters.css" crc="4254392292" ref="chapter1:chapter-3:contributions:chapter-2"/>
+    <file name="nomq_preview_master_chapters.css" crc="3824530138" ref="chapter1:chapter-3:contributions:chapter-2"/>
+    <file name="master_menus.css" crc="3945293540" ref="table-of-contents:index"/>
+    <file name="nomq_preview_master_menus.css" crc="152249081" ref="table-of-contents:index"/>
+    <file name="nomq_contributions.css" crc="3824530138" ref="contributions"/>
+    <file name="chapter-2.css" crc="462598620" ref="chapter-2"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
-    <file name="museutils.js" crc="4232573551" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
-    <file name="whatinput.js" crc="86476730" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
-    <file name="require.js" crc="4234670167" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="dashboard"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="chapter1:chapter-3:contributions:index:table-of-contents:chapter-2"/>
+    <file name="museutils.js" crc="340535759" ref="chapter1:chapter-3:contributions:index:table-of-contents:chapter-2"/>
+    <file name="whatinput.js" crc="86476730" ref="chapter1:chapter-3:contributions:index:table-of-contents:chapter-2"/>
+    <file name="museconfig.js" crc="310584261" ref="chapter1:chapter-3:contributions:index:table-of-contents:chapter-2"/>
+    <file name="jquery.watch.js" crc="51536988" ref="chapter1:chapter-3:contributions:index:table-of-contents:chapter-2"/>
+    <file name="require.js" crc="7928878" ref="chapter1:chapter-3:contributions:index:table-of-contents:chapter-2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:chapter1:table-of-contents"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="chapter1:chapter-3:index:table-of-contents:contributions:chapter-2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="chapter1:chapter-3:contributions:index:table-of-contents:chapter-2"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="table-of-contents"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="chapter1:index"/>
   </folder>
   <folder name="images">
-    <file name="house-1444716_960_720.png" crc="348753913" ref="dashboard">
+    <file name="house-1444716_960_720.png" crc="348753913" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="dashboard" alt=""/>
     </file>
-    <file name="u502-4.png" crc="291969291" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
-    <file name="u517-4.png" crc="4274374731" ref="index:chapter1:chapter2:chapter-3:contributions:dashboard:table-of-contents"/>
-    <file name="u546-4.png" crc="376188662" ref="dashboard"/>
-    <file name="u559-4.png" crc="3868474583" ref="dashboard"/>
-    <file name="u558-10.png" crc="4047574043" ref="dashboard"/>
-    <file name="u563-4.png" crc="4279058851" ref="dashboard"/>
+    <file name="flag.jpg" crc="4170662485" ref="chapter1:index:table-of-contents">
+      <caption webpage="index" alt=""/>
+      <caption webpage="chapter1" alt=""/>
+      <caption webpage="table-of-contents" alt=""/>
+      <caption webpage="table-of-contents" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="chapter1:chapter-3:index:table-of-contents:contributions:chapter-2"/>
+    <file name="u1902.png" crc="220100798" ref="index:table-of-contents"/>
+    <file name="u1902-a.png" crc="220100798" ref="index:table-of-contents"/>
+    <file name="u1888.png" crc="281902106" ref="index:table-of-contents"/>
+    <file name="u1888-a.png" crc="281902106" ref="index:table-of-contents"/>
+    <file name="u1895.png" crc="277908116" ref="index:table-of-contents"/>
+    <file name="u1895-a.png" crc="277908116" ref="index:table-of-contents"/>
+    <file name="u1905-4.png" crc="302497440" ref="index:table-of-contents"/>
+    <file name="u1881-4.png" crc="434217938" ref="index:table-of-contents"/>
+    <file name="u1712-4.png" crc="353771510" ref="index"/>
+    <file name="u1589-4-a.png" crc="4248489958" ref="table-of-contents"/>
+    <file name="u1588-10-a.png" crc="4106536087" ref="table-of-contents"/>
+    <file name="u1652-6.png" crc="4205261690" ref="table-of-contents"/>
+    <file name="u1661-6.png" crc="395629795" ref="table-of-contents"/>
+    <file name="u1658-6.png" crc="28658014" ref="table-of-contents"/>
+    <file name="u1589-4-a2.png" crc="429147491" ref="table-of-contents"/>
+    <file name="u1588-10-a2.png" crc="3975369808" ref="table-of-contents"/>
+    <file name="u1652-62.png" crc="4221742314" ref="table-of-contents"/>
+    <file name="u1661-62.png" crc="442134765" ref="table-of-contents"/>
+    <file name="u1658-62.png" crc="409277599" ref="table-of-contents"/>
+    <file name="u3773.png" crc="220100798" ref="chapter1:chapter-3:contributions:chapter-2"/>
+    <file name="u3773-a.png" crc="220100798" ref="chapter1:chapter-3:contributions:chapter-2"/>
+    <file name="u3766.png" crc="281902106" ref="chapter1:chapter-3:contributions:chapter-2"/>
+    <file name="u3766-a.png" crc="281902106" ref="chapter1:chapter-3:contributions:chapter-2"/>
+    <file name="u3759.png" crc="277908116" ref="chapter1:chapter-3:contributions:chapter-2"/>
+    <file name="u3759-a.png" crc="277908116" ref="chapter1:chapter-3:contributions:chapter-2"/>
+    <file name="3-branches-of-government.png" crc="3967318063" seo="true" ref="chapter1">
+      <caption webpage="chapter1" alt=""/>
+    </file>
+    <file name="u4662-6.png" crc="55672358" ref="chapter1"/>
+    <file name="u4556-4.png" crc="4020309248" ref="chapter1"/>
+    <file name="130306205822-the-bill-of-rights-horizontal-large-gallery.jpg" crc="495009810" seo="true" ref="chapter1">
+      <caption webpage="chapter1" alt=""/>
+    </file>
+    <file name="u4625-6.png" crc="313366766" ref="chapter1"/>
+    <file name="u4641-12.png" crc="407811604" ref="chapter1"/>
+    <file name="u4817-4.png" crc="4071394294" ref="chapter1"/>
+    <file name="u4820-8.png" crc="487831809" ref="chapter1"/>
+    <file name="u3753-4.png" crc="434217938" ref="chapter1:chapter-3:contributions:chapter-2"/>
+    <file name="u5195.png" crc="4238195717" ref="chapter1"/>
+    <file name="u5195-r.png" crc="4238195717" ref="chapter1"/>
+    <file name="u5575-30.png" crc="4203245257" ref="chapter-2"/>
+    <file name="perfectimagetoseekwaconstruction.jpg" crc="145911187" seo="true" ref="chapter-2">
+      <caption webpage="chapter-2" alt=""/>
+    </file>
+    <file name="leeanne-flint-mural.jpg" crc="520089039" seo="true" ref="chapter-2">
+      <caption webpage="chapter-2" alt=""/>
+    </file>
+    <file name="u6019-6.png" crc="151004124" ref="chapter-2"/>
+    <file name="u6022-6.png" crc="189452505" ref="chapter-2"/>
+    <file name="oldbuickfact.jpg" crc="149295994" seo="true" ref="chapter-2">
+      <caption webpage="chapter-2" alt=""/>
+    </file>
+    <file name="flintriveroldphoto-crop-u6045.jpg" crc="3847840141" seo="true" ref="chapter-2">
+      <caption webpage="chapter-2" alt=""/>
+    </file>
+    <file name="u6055-4.png" crc="4012460865" ref="chapter-2"/>
+    <file name="u5970-4.png" crc="203174439" ref="chapter-2"/>
+    <file name="cokeboost.gif" crc="6119479" seo="true" ref="chapter-2">
+      <caption webpage="chapter-2" alt=""/>
+    </file>
+    <file name="u5964-47.png" crc="4234713895" ref="chapter-2"/>
+    <file name="nailcomparisonboveisdetrioitwaterbelowisflintriverwater.jpg" crc="3927886441" seo="true" ref="chapter-2">
+      <caption webpage="chapter-2" alt=""/>
+    </file>
+    <file name="staticpoliticocom.jpg" crc="271632708" seo="true" ref="chapter-2">
+      <caption webpage="chapter-2" alt=""/>
+    </file>
+    <file name="waterdifferences.jpg" crc="4027957206" seo="true" ref="chapter-2">
+      <caption webpage="chapter-2" alt=""/>
+    </file>
+    <file name="u6192-4.png" crc="854283" ref="chapter-2"/>
+    <file name="u6309-4.png" crc="281109316" ref="chapter-2"/>
+    <file name="missing-lead-in-flint-water-pipes-confirms-cause-of-crisis-pipe1-orig-20170728-300x198.jpg" crc="202916489" seo="true" ref="chapter-2">
+      <caption webpage="chapter-2" alt=""/>
+    </file>
+    <file name="u6325-4.png" crc="222306007" ref="chapter-2"/>
+    <file name="u5967-62.png" crc="499064010" ref="chapter-2"/>
+    <file name="rustedwaterpipes.jpg" crc="3793157847" seo="true" ref="chapter-2">
+      <caption webpage="chapter-2" alt=""/>
+    </file>
+    <file name="marchingforwaterflintmichigan.jpg" crc="274357319" seo="true" ref="chapter-2">
+      <caption webpage="chapter-2" alt=""/>
+    </file>
+    <file name="u6183-4.png" crc="3986929403" ref="chapter-2"/>
+    <file name="u6189-4.png" crc="354476984" ref="chapter-2"/>
+    <file name="u6262-4-a.png" crc="4238195717" ref="chapter-2"/>
+    <file name="u6271_states.png" crc="328002857" ref="chapter-2"/>
+    <file name="u6271_states-r.png" crc="328002857" ref="chapter-2"/>
   </folder>
-  <file name="index.html" crc="397687410" seo="true" mt="1528035548185" redirect="true"/>
-  <file name="chapter1.html" crc="220228616" seo="true" mt="1528035544641" redirect="true"/>
-  <file name="chapter2.html" crc="311216561" seo="true" mt="1528035544641" redirect="true"/>
-  <file name="chapter-3.html" crc="411625361" seo="true" mt="1528035544641" redirect="true"/>
-  <file name="contributions.html" crc="4189333969" seo="true" mt="1528035544641" redirect="true"/>
-  <file name="dashboard.html" crc="3780297260" seo="true" mt="1528035561831" redirect="true"/>
-  <file name="table-of-contents.html" crc="4118466940" seo="true" mt="1528035544641" redirect="true"/>
+  <file name="chapter1.html" crc="263062420" seo="true" mt="1529490227500" redirect="true"/>
+  <file name="chapter-3.html" crc="4195365690" seo="true" mt="1529490227500" redirect="true"/>
+  <file name="contributions.html" crc="3873515915" seo="true" mt="1529490227500" redirect="true"/>
+  <file name="index.html" crc="3805006986" seo="true" mt="1529490227498" redirect="true"/>
+  <file name="table-of-contents.html" crc="35271525" seo="true" mt="1529490227498" redirect="true"/>
+  <file name="chapter-2.html" crc="155811742" seo="true" mt="1529490227500" redirect="true"/>
 </manifest>
